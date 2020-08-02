@@ -22,6 +22,9 @@
 </a> </p>
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 <p align="center"> <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=tzmanish">
@@ -31,8 +34,9 @@
 ## You can also find him at
 
 <p>
-<a href="https://github.com/tzmanish" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-<a href="https://www.linkedin.com/in/tzman" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-<a href="mailto:tzmanish97@gmail.com" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&amp;logo=GMail&amp;logoColor=white" />
-
+<a href="https://github.com/tzmanish" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-tzmanish-black?logo=github&style=for-the-badge" />
+<a href="https://www.linkedin.com/in/tzman" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-tzman-0077b5?logo=linkedin&style=for-the-badge" />
+<a href="https://tzmanish.github.io" target="_blank"><img alt="tzmanish.github.io" src="https://img.shields.io/badge/resume-tzmanish.github.io-red?style=for-the-badge" />
 </p>
+
+<img src="https://i.redd.it/0m7gmre03d631.jpg" style="width:100%">
