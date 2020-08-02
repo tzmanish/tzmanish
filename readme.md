@@ -15,17 +15,17 @@
     <img alt="html5" src="https://img.shields.io/badge/-HTML5-de4b25?style=flat-square&logo=html5&logoColor=white" />
 </p>
 
-### Love stats? Here, have some
+## Love stats? Here, have some
 
 <p align="center"> <a href="https://github-readme-stats.vercel.app/api?username=tzmanish&include_all_commits=true&count_private=true">
     <img src="https://github-readme-stats.vercel.app/api?username=tzmanish&include_all_commits=true&count_private=true&hide=stars,prs&show_icons=true&hide_title=true" alt="Stats" style="max-width:100%">
 </a> </p>
 
 <p align="center"> <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=tzmanish">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tzmanish&layout=compact&hide_title=true" alt="Top Langs" style="max-width:100%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tzmanish&layout=compact" alt="Top Langs" style="max-width:100%">
 </a> </p>
 
-### You can also find him at
+## You can also find him at
 
 <p>
 <a href="https://github.com/tzmanish" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
