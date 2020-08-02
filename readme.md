@@ -1,4 +1,4 @@
-# Welcome to my profile dear visitor
+# Welcome to [tzmanish](https://tzmanish.github.io/)'s profile visitor
 
 <p align="center"> <a href="https://github-readme-stats.vercel.app/api?username=tzmanish&include_all_commits=true&count_private=true">
     <img src="https://github-readme-stats.vercel.app/api?username=tzmanish&include_all_commits=true&count_private=true&hide=stars,prs&show_icons=true&hide_title=true" alt="Stats">
