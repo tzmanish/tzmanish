@@ -39,4 +39,9 @@ No Activity tracked this Week
 <a href="https://tzmanish.github.io" target="_blank"><img alt="tzmanish.github.io" src="https://img.shields.io/badge/resume-tzmanish.github.io-red?style=for-the-badge" />
 </p>
 
+[![Github](https://img.shields.io/badge/-tzmanish-black?logo=github&style=for-the-badge)](https://github.com/tzmanish)
+[![LinkedIn](https://img.shields.io/badge/-tzman-0077b5?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/tzman)
+[![tzmanish.github.io](https://img.shields.io/badge/resume-tzmanish.github.io-red?style=for-the-badge)](https://tzmanish.github.io)
+
+
 <img src="https://i.redd.it/0m7gmre03d631.jpg" style="width:100%">
