@@ -21,6 +21,9 @@
     <img src="https://github-readme-stats.vercel.app/api?username=tzmanish&include_all_commits=true&count_private=true&hide=stars,prs&show_icons=true&hide_title=true" alt="Stats" style="max-width:100%">
 </a> </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <p align="center"> <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=tzmanish">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tzmanish&layout=compact" alt="Top Langs" style="max-width:100%">
 </a> </p>
@@ -30,4 +33,6 @@
 <p>
 <a href="https://github.com/tzmanish" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
 <a href="https://www.linkedin.com/in/tzman" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="mailto:tzmanish97@gmail.com" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&amp;logo=GMail&amp;logoColor=white" />
+
 </p>
