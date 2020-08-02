@@ -2,10 +2,10 @@
 
 <p>
     <img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00427e?style=flat-square&logo=C%2B%2B&logoColor=white" />
-    <img alt="C#" src="https://img.shields.io/badge/-C%23-2f0073?style=flat-square&logo=C%2B%2B&logoColor=white" />
+    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-e19f2a?style=flat-square&logo=JavaScript&logoColor=white" />
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-0176c5?style=flat-square&logo=visual-studio-code&logoColor=white" />
+    <img alt="C#" src="https://img.shields.io/badge/-C%23-2f0073?style=flat-square&logo=C%2B%2B&logoColor=white" />
     <img alt="Python" src="https://img.shields.io/badge/-Python-356c9c?style=flat-square&logo=python&logoColor=white" />
-    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f8d03a?style=flat-square&logo=JavaScript&logoColor=white" />
     <img alt="SQL" src="https://img.shields.io/badge/-SQL-de8a03?style=flat-square&logo=mysql&logoColor=white" />
     <img alt="git" src="https://img.shields.io/badge/-Git-e94f32?style=flat-square&logo=git&logoColor=white" />
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-0077c6?style=flat-square&logo=typescript&logoColor=white" />
