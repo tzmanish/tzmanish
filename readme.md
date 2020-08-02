@@ -33,8 +33,8 @@ No Activity tracked this Week
 
 ## You can also find him at
 
-[![Github](https://img.shields.io/badge/-tzmanish-black?logo=github&style=for-the-badge)](https://github.com/tzmanish)
+[![Github](https://img.shields.io/badge/github-tzmanish-black?logo=github&style=for-the-badge)](https://github.com/tzmanish)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/-tzman-0077b5?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/tzman)
+[![LinkedIn](https://img.shields.io/badge/linkedin-tzman-0077b5?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/tzman)
 &nbsp;
-[![tzmanish.github.io](https://img.shields.io/badge/resume-tzmanish.github.io-red?style=for-the-badge)](https://tzmanish.github.io)
+[![tzmanish.github.io](https://img.shields.io/badge/resume-tzmanish.github.io-red?logo=internet%20explorer&style=for-the-badge)](https://tzmanish.github.io)
