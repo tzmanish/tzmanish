@@ -87,9 +87,7 @@ JavaScript   1 repos        █░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<p align="center"> <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=tzmanish">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tzmanish&layout=compact" alt="Top Langs" style="max-width:100%">
-</a> </p>
+###### Made using: GitHub Stats Card - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats), WakaTime Stats - [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
 
 ## You can also find him at
 
