@@ -10,7 +10,7 @@ jobs:
     name: Update WakaTime Stats
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOCKEN: ${{ secrets.WAKA_GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.WAKA_GH_TOKEN }}
