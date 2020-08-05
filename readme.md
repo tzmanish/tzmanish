@@ -89,7 +89,7 @@ JavaScript   1 repos        █░░░░░░░░░░░░░░░░�
 
 ###### Made using: GitHub Stats Card - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats), WakaTime Stats - [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
 
-## Find him at
+## Find me at
 
 [![Github](https://img.shields.io/badge/github-tzmanish-black?logo=github&style=for-the-badge)](https://github.com/tzmanish)
 &nbsp;
