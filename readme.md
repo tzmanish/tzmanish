@@ -15,7 +15,7 @@
     <img alt="html5" src="https://img.shields.io/badge/-HTML5-de4b25?style=flat-square&logo=html5&logoColor=white" />
 </p>
 
-## Love stats? Here, have some
+## Account Statistics
 
 <p align="center"> <a href="https://github-readme-stats.vercel.app/api?username=tzmanish&include_all_commits=true&count_private=true">
     <img src="https://github-readme-stats.vercel.app/api?username=tzmanish&include_all_commits=true&count_private=true&hide=stars,prs&show_icons=true&hide_title=true" alt="Stats" style="max-width:100%">
@@ -89,7 +89,7 @@ JavaScript   1 repos        █░░░░░░░░░░░░░░░░�
 
 ###### Made using: GitHub Stats Card - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats), WakaTime Stats - [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
 
-## You can also find him at
+## Find him at
 
 [![Github](https://img.shields.io/badge/github-tzmanish-black?logo=github&style=for-the-badge)](https://github.com/tzmanish)
 &nbsp;
