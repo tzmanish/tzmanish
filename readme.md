@@ -1,4 +1,4 @@
-# Welcome to [tzmanish](https://tzmanish.github.io/)'s profile.
+# Welcome to [Manish](https://manishkushwaha.dev)'s profile.
 
 <p>
     <img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00427e?style=flat-square&logo=C%2B%2B&logoColor=white" />
@@ -90,4 +90,4 @@ C++                      2 repos             ██░░░░░░░░░�
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/linkedin-tzman-0077b5?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/tzman)
 &nbsp;
-[![tzmanish.github.io](https://img.shields.io/badge/resume-tzmanish.github.io-red?logo=internet%20explorer&style=for-the-badge)](https://tzmanish.github.io)
+[![ManishKushwaha.dev](https://img.shields.io/badge/more-ManishKushwaha.dev-red?logo=internet%20explorer&style=for-the-badge)](https://manishkushwaha.dev)
